@@ -1,0 +1,8 @@
+def get_book_text(filepath):
+    filepath = "~/workspace/github.com/wanderdmd/bookbot/frankenstein.txt"    
+    return str(filepath)
+
+def main(get_book_text):
+    print(filepath)
+
+main(get_book_text) 
